@@ -6,7 +6,7 @@
 ==================================================================*/
 $('.js-preloader').preloadinator({
   animation: 'fadeOut',
-  animationDuration: 300
+  animationDuration: 100
 });
 
 
