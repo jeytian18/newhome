@@ -333,7 +333,7 @@ h6 {
 }
 .hero-area .hero-head {
   color: #fff;
-  font-size: 90px;
+  font-size: 70px;
 }
 .hero-area .hero-head small {
   font-size: 24px;
@@ -499,11 +499,15 @@ h6 {
 }
 .intro-section .icon-box {
   font-size: 48px;
-  color: #fd562a;
+  color: white;
 }
 .intro-section h3 {
   font-size: 28px;
   margin-bottom: 18px;
+  color:#F57E20 ;
+}
+.intro-section p {
+  color:white ;
 }
 .intro-section .de-intro-1 {
   position: absolute;
@@ -512,7 +516,7 @@ h6 {
 }
 /* Dark Mode Styling */
 .dark-mode .intro-section .item-wrapper {
-  background: #2f2f2f;
+  background: #7F52A0;
   border: none;
 }
 /***********************************************************
@@ -1481,8 +1485,8 @@ h6 {
 }
 .dark-mode .contact-section .form-control {
   border-color: #606060;
-  background: #2a2a2a;
-  color: #b0aac0;
+  background: #7F52A0;
+  color: white;
 }
 .dark-mode .contact-section .form-control:focus {
   border-color: #fd562a;
@@ -1607,7 +1611,7 @@ h6 {
   left: 0;
   width: 100%;
   height: 100%;
-  background: #222;
+  background: #0c0536;
   z-index: 10000;
 }
 .dots .dot {
@@ -2298,7 +2302,7 @@ h6 {
     display: none;
   }
   .hero-area .hero-head {
-    font-size: 36px;
+    font-size: 20px;
   }
   .hero-area .hero-head small {
     font-size: 18px;
